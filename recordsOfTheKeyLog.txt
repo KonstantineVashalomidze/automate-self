@@ -1,0 +1,12 @@
+Time since last event: 2.0065s - Mouse clicked at (1167, 1050) with Button.left
+Time since last event: 0.1127s - Mouse released at (1167, 1050) with Button.left
+Time since last event: 1.9754s - Mouse clicked at (1343, 33) with Button.left
+Time since last event: 0.1035s - Mouse released at (1343, 33) with Button.left
+Time since last event: 1.6631s - Mouse clicked at (1585, 22) with Button.left
+Time since last event: 0.1527s - Mouse released at (1585, 22) with Button.left
+Time since last event: 2.0804s - Mouse clicked at (1189, 1060) with Button.left
+Time since last event: 0.1195s - Mouse released at (1189, 1060) with Button.left
+Time since last event: 2.4005s - Mouse clicked at (1786, 50) with Button.left
+Time since last event: 0.1047s - Mouse released at (1786, 50) with Button.left
+Time since last event: 0.5514s - Mouse clicked at (1786, 50) with Button.left
+Time since last event: 0.1361s - Mouse released at (1786, 50) with Button.left
